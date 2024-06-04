@@ -2,7 +2,7 @@
 
 # Vercel Linki
 
-appointment-hj3jatkdv-elvisstones-projects.vercel.app
+https://appointment-101f6g4ih-elvisstones-projects.vercel.app/
 
 # Kullanılan Paketler
 
